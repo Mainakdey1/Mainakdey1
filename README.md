@@ -7,7 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   11 mins         █████████████████████████   100.00 % 
+Git Config   12 mins         ██████████████▓░░░░░░░░░░   58.14 % 
+Markdown     4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Dart         4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
 ```
 <!--END_SECTION:waka-->
 
