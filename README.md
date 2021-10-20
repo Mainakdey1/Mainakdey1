@@ -7,9 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     9 mins          ███████████████▓░░░░░░░░░   63.23 % 
-Dart         4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.69 % 
-Git Config   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Markdown   5 mins          ████████████████████████▓   99.11 % 
 ```
 <!--END_SECTION:waka-->
 
