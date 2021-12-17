@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Mainak Dey 
-### Glad to meet you💙
-### I'm a fresher at STCET, India.🤵
+### 
 
 
 
